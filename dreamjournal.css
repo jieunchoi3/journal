@@ -1,0 +1,44 @@
+
+
+body{background-image: url(https://d2u3dcdbebyaiu.cloudfront.net/uploads/atch_img/279/788d2b01875dd4cdd081f464af79500f_res.jpeg);
+      background-size: cover;
+      background-position: center;
+      margin: 0;
+            padding: 0;}
+
+      header {margin: 0 auto; text-align: center; 
+            color: antiquewhite; 
+            border-bottom: 2.5px solid antiquewhite;
+            width: 50%
+            }
+ h2 {padding-top: 0;}           
+h1{font-size: 50px; margin-bottom: 0;}
+.text{;padding-left: 0;padding-right: 0;color: antiquewhite; text-align: center; margin-top: 2px; font-size: 20px;}
+
+.head {/*background: linear-gradient(180deg,antiquewhite 40%, rgb(170, 167, 167) 50%, antiquewhite 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;*/
+      color: antiquewhite;
+font-size: 30px;
+margin-bottom: 0; text-align: center;}
+
+.text1 {display: block; margin:auto; text-align: left; width: 50%; height: auto;
+       background-color:rgb(249, 243, 234); border: none; border-radius: 10px;
+      }
+      
+label{color: antiquewhite; font-size: 20px; margin-left: 10px; margin-right: 10px;}
+.emo{display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 9px;}
+      
+ .date {display: flex;
+      justify-content: center;
+      align-items: center;
+margin-top: 13px;border: 0;
+margin-bottom: 20px;}    
+#date {height: 22px;}
+
+button {background-color: white; display: flex; justify-content: center; align-items: center;
+text-align: center; border: none; height: 22px}
+/*https://jieunchoi3.github.io/dreamjournal/dreamjournal.html */
